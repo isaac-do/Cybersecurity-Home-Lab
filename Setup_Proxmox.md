@@ -28,7 +28,7 @@ Next, create a backup of the proxmoxlib.js using the command:
 ```cmd
 cp proxmoxlib.js proxmoxlib.js.bak-10-14-25
 ```
-![Setup_Proxmox](/TurtugaLab/Setup_Proxmox.png)
+![Setup_Proxmox](/Setup_Proxmox.png)
 
 Once you have a backup, run this command to edit the proxmoxlib.js:
 ```cmd 
