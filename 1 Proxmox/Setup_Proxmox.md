@@ -28,7 +28,7 @@ Next, create a backup of the proxmoxlib.js using the command:
 ```cmd
 cp proxmoxlib.js proxmoxlib.js.bak-10-14-25
 ```
-![Setup_Proxmox](Setup_Proxmox.png)
+![Setup_Proxmox](PNG/Setup_Proxmox.png)
 
 Once you have a backup, run this command to edit the proxmoxlib.js:
 ```cmd 
@@ -40,9 +40,9 @@ Once in the vim editor, type / then "No valid" to find in the file a text contai
 ```cmd
 /No valid
 ```
-![Setup_Proxmox_1](Setup_Proxmox_1.png)
+![Setup_Proxmox_1](PNG/Setup_Proxmox_1.png)
 Once we find this function, delete 16 lines starting from `let res = response.result;`
-![Setup_Proxmox_2](Setup_Proxmox_2.png)
+![Setup_Proxmox_2](PNG/Setup_Proxmox_2.png)
 This should be the end result.
 
 Run this command to write the new changes and exit vim:
@@ -50,7 +50,7 @@ Run this command to write the new changes and exit vim:
 :wq
 ```
 
-![Setup_Proxmox_3](Setup_Proxmox_3.png)
+![Setup_Proxmox_3](PNG/Setup_Proxmox_3.png)
 
 Now we will restart the proxmox service running this command:
 ```cmd 
