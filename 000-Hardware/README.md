@@ -1,7 +1,6 @@
 # Introduction
-Follow along as I transform my Homelab setup!
+Follow along as I transform my homelab setup and take it from sitting on a cheap shoe rack to a network rack.
 # Old Setup
-Yes, my old homelab setup is sitting on a cheap shoe rack. 
 ![](SS/SS-10172025_1.jpg)
 
 # New Setup
