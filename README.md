@@ -4,11 +4,11 @@ This repository is all about a Security Operations Center (SOC) lab built to sim
 
 All configurations, architectures, and findings are documented in Obsidian and synced with this repository for analysis and continuous learning.
 
-![](SS/SS-10212025.jpg)
-
 ---
 
 # 🧱 Lab Architecture
+
+![Home Network Rack](SS/SS-10212025.jpg)
 
 ---
 
